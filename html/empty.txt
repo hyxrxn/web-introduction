@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>아토의 자기소개 페이지</title>
+</head>
+<body>
+  <div style="border:1px solid black;">
+    <h2>자기소개</h2>
+    <ul>
+      <li>이름 : 아토</li>
+      <li>사는 곳 : 강동구</li>
+      <li>안녕하세요, 아토입니다!</li>
+    </ul>
+  </div>
+  <div style="border:1px solid black;">
+    <h2>인생 영화 BEST5</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>순위</th>
+          <th>제목</th>
+          <th>포스터</th>
+          <th>줄거리</th>
+          <th>바로가기</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <th>인비저블 게스트</th>
+          <th><img src="https://i.namu.wiki/i/3lztTniPT6sWVaoAl16yqwvBBQANCY3CV0342r8FAUIahgxjzN_PzjCpxCjVNxIroy-cE4x12jspi6W9WjXUQmxeVLeK6RM9Sd51zfneSsMrFmwu82u-WoBACc6SOmGWt9JnpTn-Y60xhaCjzBeF4hLg08YRDyyXfbHI_TmuNJo.webp" width="100"></th>
+          <th>살해 당한 연인의 용의자로 누명을 쓴 ‘아드리안’. 남은 시간은 단 3시간, 사건을 재구성해 무죄를 입증해야 한다!</th>
+          <th><a href="https://namu.wiki/w/인비저블%20게스트">클릭</a></th>
+        </tr>
+        <tr>
+          <th>2</th>
+          <th>스파이더맨: 노 웨이 홈</th>
+          <th><img src="https://i.namu.wiki/i/3lztTniPT6sWVaoAl16yq8kV9b_qRP-3Y_dUJ3BNrszDJanlgLB6peWEechzgc6WOvQjmPilp3cTpQ8NnpqIa0dn1MnHm1i76xXdzuhF4hs4JzWJJZm70SZLUL3GMseCpY4K0EWUPVa6OonupjHpSG8bY1RYMrwjnnijY5IA5hc.webp" width="100"></th>
+          <th>'미스테리오'의 계략으로 세상에 정체가 탄로난 스파이더맨. 뜻하지 않게 멀티버스가 열리면서 각기 다른 차원의 불청객들이 나타난다.</th>
+          <th><a href="https://namu.wiki/w/스파이더맨:%20노%20웨이%20홈">클릭</a></th>
+        </tr>
+        <tr>
+          <th>3</th>
+          <th>주먹왕 랄프</th>
+          <th><img src="https://i.namu.wiki/i/3lztTniPT6sWVaoAl16yq82qzj286kWiXnDaZAQ-6eN88vgHOeDBtMk2k3Y9Nk5k5ioAnI21v4VejCGhPqhcS2eHKrpzxw3P4ro5j4LlcZFALvY5TEX1WlFio6rS4wxrTmMBQdrCx0hcR8qjsyYwoCykL2xZekkxFw1HQWoGpuQ.webp" width="100"></th>
+          <th>‘다고쳐 펠릭스’에서 건물을 부수는 악당 주먹왕 랄프. 영웅이 되고 싶은 마음에 레이싱 게임 ‘슈가 러시’에 불시착한 랄프는 과연 새로운 영웅이 될 수 있을 것인가!</th>
+          <th><a href="https://namu.wiki/w/주먹왕%20랄프">클릭</a></th>
+        </tr>
+        <tr>
+          <th>4</th>
+          <th>쥬만지: 새로운 세계</th>
+          <th><img src="https://i.namu.wiki/i/3lztTniPT6sWVaoAl16yq6fJEI46bwHv4Cphv-LiDh9qdR94ckN6gDKyabGb8uWuWjnckX3YzwKkvEBLHbo8_GamZRDM4jT4sg_vQyTLnpmO5L3YJDJFB5DLLIG5yym66ST1D4epd9y3jmuic92BANvUopMlKzUbHogB3hiMDLE.webp" width="100"></th>
+          <th>학교 창고를 청소하게 된 4명의 고등학생. 우연히 발견한 비디오 게임을 시작하는 순간, 게임 속 세계로 빨려 들어간다.과연 무사히 게임을 끝낼 수 있을까?</th>
+          <th><a href="https://namu.wiki/w/쥬만지:%20새로운%20세계">클릭</a></th>
+        </tr>
+        <tr>
+          <th>5</th>
+          <th>인터스텔라</th>
+          <th><img src="https://i.namu.wiki/i/3lztTniPT6sWVaoAl16yqwL_xWoUvcugkI5X9GdnbBD8NOryl3jITTCTMLdJmOv0Fpg4r9YeAkSocm44KLTlocmm6NX_-S6Uflqr1_LfKxM2kkRHPAYqbLXha11FOPq9eL3SV7aFfjvvW1E2OfEJs06FcfmxB74LFLRGae50RIc.webp" width="100"></th>
+          <th>세계 각국의 정부와 경제가 완전히 붕괴된 미래. 시공간에 불가사의한 틈이 열리고, 남은 자들에게는 인류를 구해야 하는 임무가 주어진다. 그리고 우린 답을 찾을 것이다. 늘 그랬듯이...</th>
+          <th><a href="https://namu.wiki/w/인터스텔라">클릭</a></th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="border:1px solid black;">
+    <h2>방명록</h2>
+    
+  
+
+  
+  
+</body>
+  </html>
